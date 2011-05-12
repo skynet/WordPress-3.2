@@ -1,0 +1,34 @@
+
+WordPress 3.2, Beta 1
+Posted May 12, 2011 by Jane Wells. Filed under Releases.
+
+It seems like just yesterday that we released WordPress 3.1, but it.s actually been almost three months. We.ve spent that time putting together a new release focused on performance improvements, and are ready for our first beta testers!
+
+As always, this is software still in development and we don.t recommend that you run it on a production site . set up a test site just to play with the new version. If you break it (find a bug), please report it, and if you.re a developer, try to help us fix it.
+
+If all goes well, we hope to release WordPress 3.2 by the end of June, though that is (again, as always) subject to change depending on how the beta period goes. The more help we get with testing and fixing bugs, the sooner we will be able to release the final version. If you want to be a beta tester, you should check out the Codex article on how to report bugs.
+
+Here.s some of what.s new:
+
+    Performance improvements like you wouldn.t believe. What.s that mean? Things are faster!
+    Distraction-free Writing. The visual editor.s full-screen composing experience has gotten a major overhaul, and is now available from HTML mode, too. More than ever, WordPress allows you to focus on what matters most . your content.
+    Admin UI Refresh. The last major redesign of the WordPress admin was in 2008. This isn.t a major redesign, just a little facelift to keep us feeling young. WordPress turns 8 later this month, you know.
+    New Default Theme. Introducing Twenty Eleven, based on the popular Duster theme. Rotating header images, post format support, and more.
+    Browse Happy. WordPress is made to work with modern browsers. If you visit your Dashboard using an outdated web browser, we.ll let you know there.s a newer version available.
+    Admin Bar. We.ve added more links to the admin bar to make it even more useful.
+
+Be Aware:
+
+    WordPress has new system requirements: PHP 5.2.4 and MySQL 5.0.
+    Internet Explorer 6 will no longer be supported.
+    The favorites menu has been removed. If you.ve written any plugins that use this menu, it.s time to switch over to an admin bar placement.
+
+Known Issues:
+
+    We haven.t updated the blue admin color scheme yet, so do your testing in the gray zone for best results.
+
+Remember, if you find something you think is a bug, report it! You can bring it up in the alpha/beta forum, you can email it to the wp-testers list, or if you.ve confirmed that other people are experiencing the same bug, you can report it on the WordPress Core Trac. (I recommend starting in the forum or on the mailing list.)
+
+Theme and plugin authors, if you haven.t been following the 3.2 development cycle, please start now so that you can update your themes and plugins to be compatible with the newest version of WordPress.
+
+Note to developers: WordPress is built by the contributions of hundreds of developers. If you.d like to see this release come out on time, I encourage you to pitch in. Even if you don.t have time to do testing on the beta version, you could help us by contributing a fix for one of the many bugs we already know about.
