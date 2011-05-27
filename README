@@ -1,13 +1,17 @@
-WordPress 3.2 Beta 2 available
-In other news, our development of WordPress 3.2 development continues right on schedule. We released Beta 1 thirteen days ago, and today we’re putting out Beta 2 for your testing pleasure.
+WordPress 3.2 Beta 2
 
-This is still beta software, so we don’t recommend that you use it on production sites. But if you’re a plugin developer, a theme developer, or a site administrator, you should be running this on your test environments and reporting any bugs you find. If you’re a WordPress user who wants to open your presents early, take advantage of WordPress’ famous 5-minute install and spin up a secondary test site. Let us know what you think!
+In other news, our development of WordPress 3.2 development continues right on schedule. We released Beta 1 thirteen days ago, and today we're putting out Beta 2 for your testing pleasure.
 
-The plan is to start putting out release candidates in early June, and to release WordPress 3.2 by the end of the month. The more you help us iron out issues during the beta period, the more likely we are to hit those dates. To misappropriate and mangle a quote from Mahatma Gandhi: “Be the punctuality you want to see in the WordPress.” In other words, test now!
+This is still beta software, so we don't recommend that you use it on production sites. But if you're a plugin developer, a theme developer, or a site administrator, you should be running this on your test environments and reporting any bugs you find. If you're a WordPress user who wants to open your presents early, take advantage of WordPress' famous 5-minute install and spin up a secondary test site. Let us know what you think!
+
+The plan is to start putting out release candidates in early June, and to release WordPress 3.2 by the end of the month. The more you help us iron out issues during the beta period, the more likely we are to hit those dates. To misappropriate and mangle a quote from Mahatma Gandhi: 'Be the punctuality you want to see in the WordPress.' In other words, test now!
 
 Here are some of the things that changed since Beta 1:
 
 Google Chrome Frame is now supported in the admin, if you have it installed. This is especially useful for IE 6 users (remember, IE 6 is otherwise deprecated for the admin).
+
 The admin is less ugly in IE 7.
+
 The blue admin color scheme has caught up to the grey one, and is ready for testing.
+
 We are now bundling jQuery 1.6.1. You should test any JS that uses jQuery. WordPress JavaScript guru Andrew Ozz has a post with more info.
